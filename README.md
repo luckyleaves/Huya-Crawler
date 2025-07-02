@@ -144,3 +144,7 @@ edgedriver_path = r'C:\path\to\your\msedgedriver.exe'  # 修改为你的实际�
 ## 许可证
 
 本项目采用 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件。
+
+## 特别说明
+
+本项目仅用于学习交流，严禁用于商业用途
